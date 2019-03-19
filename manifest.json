@@ -1,5 +1,6 @@
 {
- "name": "2049",
+ "short_name": "2049",
+ "name": "iPec 2049",
  "icons": [
   {
    "src": "/img/core-img/android-icon-36x36.png",
@@ -37,5 +38,10 @@
    "type": "image\/png",
    "density": "4.0"
   }
- ]
+ ],
+  "start_url": "/",
+  "background_color": "#000",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#000"
 }
